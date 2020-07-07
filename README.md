@@ -5,7 +5,7 @@ Home: https://CRAN.R-project.org/package=RWekajars
 
 Package license: GPL-2
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: External jars required for package 'RWeka'.
 
