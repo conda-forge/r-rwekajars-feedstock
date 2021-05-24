@@ -37,7 +37,7 @@ test:
 
 about:
   home: https://CRAN.R-project.org/package=RWekajars
-  license: GPL-2
+  license: GPL-2.0-only
   summary: External jars required for package 'RWeka'.
   license_family: GPL2
   license_file: '{{ environ["PREFIX"] }}/lib/R/share/licenses/GPL-2'
